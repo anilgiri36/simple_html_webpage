@@ -1,5 +1,3 @@
-# simple_html_webpage
-<!DOCTYPE html>
 <html>
 <head>
     <title>Anil Giri | Software Engineer | GitHub Portfolio</title>
