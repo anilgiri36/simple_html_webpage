@@ -8,7 +8,7 @@
     
       <!-- Profile Photo -->
     <div>
-        <img src="Anil Giri_photograph.jpg.jpg" alt="Anil Giri" 
+        <img src="Anil Giri_photograph.jpg" alt="Anil Giri" 
              style="width:150px; height:150px; border-radius:50%; margin-top:20px;">
     </div>
     
