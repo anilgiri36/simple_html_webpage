@@ -22,7 +22,7 @@
     </div>
     
     <h1>Welcome to My Page 👋</h1>
-    <p>This is my first HTML page using GitHub.</p>
+    <p>Welcome to my page! I'm Anil Giri, a Software Engineer passionate about coding and building projects.</p>
 
    <div class="box">
         <h2>Contact</h2>
