@@ -28,17 +28,18 @@
         <h2>Contact</h2>
         <p>Email: anilgiri36@gmail.com</p>
         <p> Mobile No: +91 8379008152</p>
-        <p>GitHub: <a href="https://github.com/anilgiri36" target="_blank">https://github.com/anilgiri36</a></p>
-    </div>
-    
-    <section id="contact">
-    <p>Send me a WhatsApp message:</p>
-    <a href="https://wa.me/918379008152?text=Hello%20I%20want%20to%20connect%20with%20you" 
+
+     <section id="contact">
+    <p>Send me a WhatsApp message:<a href="https://wa.me/918379008152?text=Hello%20I%20want%20to%20connect%20with%20you" 
        target="_blank" 
        class="whatsapp-btn">
        Send WhatsApp Message
     </a>
+    </p>
     </section>
+    
+        <p>GitHub: <a href="https://github.com/anilgiri36" target="_blank">https://github.com/anilgiri36</a></p>
+    </div>
  
       <marquee><b style="color: green;">A page created by Anil Giri</b></marquee>
       
