@@ -31,7 +31,7 @@
         <p>GitHub: <a href="https://github.com/anilgiri36" target="_blank">https://github.com/anilgiri36</a></p>
     </div>
     
-     <section id="contact">
+    <section id="contact">
     <h2>Send What's App message:</h2>
     <p>Send me a WhatsApp message:</p>
     <a href="https://wa.me/918379008152?text=Hello%20I%20want%20to%20connect%20with%20you" 
